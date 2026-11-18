@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,20,Gan tay 4 anh gold theo guideline v1.0
+batch_review,24,45,Duyet 24 anh batch co pre-label va bat bay tren CVAT
